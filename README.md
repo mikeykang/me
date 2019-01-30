@@ -1,2 +1,2 @@
-# mywebsite
+# me
 Portfolio of Mikey Kang
